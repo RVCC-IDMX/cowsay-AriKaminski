@@ -1,0 +1,26 @@
+{
+  "name": "cowsay-arikaminski",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "help": "cowsay -h",
+    "cows": "cowsay -l",
+    "cowsay": "cowsay",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/cowsay-AriKaminski.git"
+  },
+  "keywords": [],
+  "author": "Ari Kaminski <g00224916@stu.raritanval.edu> (https://github.com/arikaminski)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/cowsay-AriKaminski/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/cowsay-AriKaminski#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
